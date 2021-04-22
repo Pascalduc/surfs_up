@@ -20,6 +20,7 @@ df_june
 df_june.describe()
 ```
  
+We can see from the `DataFrame` and the histogram that the average (mean) and median (50%) temperature is ~75 F for June while it is ~71 F for December. While it is a little bit cooler in December, temperatures are below 69 F only 25% of the time. These lower 60s are still good for surfing with wetsuits but surfers may not want a refreshing ice cream below 65 F. Luckily for us, these lows represent only ~8% of the temperature measurement counts, which would be 2 to 3 days a month.
 
 
 ![df_june](Resources/df_june.png)
