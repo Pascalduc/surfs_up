@@ -1,7 +1,7 @@
 # Surfs_up Analysis
 Module 9
 ## Overview of the analysis:
-The purpose of this analysis was to help our investors W. Avy get an idea of the temperature trends for the month of June and April before deciding if our surf and ice cream shop business is sustainable year-round.
+The purpose of this analysis was to help our investors W. Avy get an idea of the temperature trends for the month of June and December before deciding if our surf and ice cream shop business is sustainable year-round.
 
 ## Results:
 At first, we made an sqlalchemy query to get the observed temperature ‘tobs’ for the month of June and December using the ‘func.strftime’ function. We then converted the results into a list using the ‘np.ravel’ function, then converted our list to a DataFrame, and used the ‘describe’ function to obtain the statistics summary.
