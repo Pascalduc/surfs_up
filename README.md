@@ -31,9 +31,15 @@ df_june.describe()
 
 ![Dec_Temp_hist](Resources/Dec_Temp_hist.png)
 
-•	For the precipitation statistics `DataFrame` we see that June receives an average of 0.14 inches of rain while it is at 0.22 inches for December.
+•	For the precipitation statistics `DataFrame` we see that June receives an average of 0.14 inches of rain while it is at 0.22 inches for December. The median is about ten times lower since there are many days with zero precipitation, which makes the data skewed to the right.
 
 ![prcp](Resources/prcp.png)
+
+
+![June_prcp_hist](Resources/June_prcp_hist.png)
+
+
+![Dec_prcp_hist](Resources/Dec_prcp_hist.png)
 
 
 ## Summary:
