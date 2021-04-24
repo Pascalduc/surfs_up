@@ -32,5 +32,8 @@ We can see from the `DataFrame` and the `histogram` that the average (mean) and 
 ![Dec_Temp_hist](Resources/Dec_Temp_hist.png)
 
 
+![prcp](Resources/prcp.png)
+
+
 ## Summary:
 Overall, temperatures in the low 60s are still good for surfing with wetsuits but surfers may not want a refreshing ice cream below 65 F. Luckily for us, these lows represent only ~8% of the temperature measurement counts, which would be 2 to 3 days a month. Therefore, we think our business plan would be viable year-round.
