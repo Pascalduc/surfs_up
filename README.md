@@ -38,7 +38,10 @@ df_june.describe()
 
 ## Summary:
 •	Overall, temperatures are relatively warm year-round in Oahu.
+
 •	Surfing with wetsuits is still good in low 60s but surfers may not want a refreshing ice cream below 65 F. Luckily for us, these lows represent only ~8% of the temperature measurement counts, which would be 2 to 3 days a month. 
+
 •	Precipitations are also relatively low for those two months which is excellent for surfing!
+
 •	Overall, we think Oahu is a great location for our surf and ice cream business plan and we believe it would be profitable year-round.
 
